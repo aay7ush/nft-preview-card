@@ -11,7 +11,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [NFT preview card component](https://interactive-rat1ng-component.netlify.app/)
+- Live Site URL: [NFT preview card component](https://nft-prev1ew-card.netlify.app/)
 
 ## Built with
 
